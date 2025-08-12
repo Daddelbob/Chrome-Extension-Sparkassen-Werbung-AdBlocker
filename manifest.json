@@ -1,16 +1,18 @@
 {
     "manifest_version": 3,
-    "name": "Chrome-Extension-Sparkassen-Werbung-AdBlocker",
+    "name": "Sparkasse Werbung AdBlocker",
     "version": "1.0.0",
     "icons": {
         "16": "icon-16.png",
-        "32": "icon-32.png"
+        "32": "icon-32.png",
+        "128": "icon-128-padded.png"
     },
     "action": {
-        "default_title": "Sparkasse AdBlocker",
+        "default_title": "Sparkasse Werbung AdBlocker",
         "default_icon": {
             "16": "icon-16.png",
-            "32": "icon-32.png"
+            "32": "icon-32.png",
+            "128": "icon-128-padded.png"
         }
     },
     "description": "Entfernt ein Sparkassen-Eigenwerbung aus dem DOM, falls bekannt und vorhanden.",
