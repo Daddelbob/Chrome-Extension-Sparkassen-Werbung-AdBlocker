@@ -1,0 +1,4 @@
+/* prevents short blink at the start of the site for known elements */
+.flexbox.flexboxbase.section.is-flexbox-slider:has(.cbox-campaign) {
+  display: none !important;
+}
