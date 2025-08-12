@@ -1,0 +1,2 @@
+# Chrome-Extension-Sparkassen-Werbung-AdBlocker
+ChromeExtensionSparkassenWerbungAdBlocker
