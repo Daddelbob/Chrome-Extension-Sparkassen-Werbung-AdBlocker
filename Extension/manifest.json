@@ -28,7 +28,16 @@
                 "*://sparkasse-*.de/*",
                 "*://*.sparkasse-*.de/*",
                 "*://*-sparkasse.de/*",
-                "*://*.*-sparkasse.de/*"
+                "*://*.*-sparkasse.de/*",
+                "*://*.kreissparkasse-*.de/*",
+                "*://*-kreissparkasse.de/*",
+                "*://*.*-kreissparkasse.de/*",
+                "*://*.ksk-*.de/*",
+                "*://*-ksk.de/*",
+                "*://*.*-ksk.de/*",
+                "*://*.spk-*.de/*",
+                "*://*-spk.de/*",
+                "*://*.*-spk.de/*"
             ],
             "js": [
                 "content.js"
